@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306424535968",
+    "project_id": "assessment2gc",
+    "storage_bucket": "assessment2gc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306424535968:android:1051509d6fa4a1b2b362c5",
+        "android_client_info": {
+          "package_name": "com.example.assessment2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhKYATHiZUlTQdqGn_BJCPJnrs_CZgA5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
